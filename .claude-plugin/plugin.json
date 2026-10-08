@@ -1,0 +1,17 @@
+{
+  "name": "touchtree",
+  "version": "1.0.0",
+  "description": "A Files pane for the Claude Code desktop app: see every file Claude reads, edits and commits, live in your project tree",
+  "homepage": "https://github.com/ItsJustLeo22/touchtree",
+  "repository": "https://github.com/ItsJustLeo22/touchtree",
+  "types": "./types/index.d.ts",
+  "keywords": [
+    "desktop",
+    "file-tree",
+    "files",
+    "git",
+    "pane",
+    "activity"
+  ],
+  "license": "MIT"
+}

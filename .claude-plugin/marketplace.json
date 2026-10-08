@@ -1,0 +1,16 @@
+{
+  "name": "touchtree",
+  "owner": {
+    "name": "touchtree"
+  },
+  "metadata": {
+    "description": "A Files pane for the Claude Code desktop app that shows what Claude reads, edits and commits"
+  },
+  "plugins": [
+    {
+      "name": "touchtree",
+      "description": "Files pane for the Claude Code desktop app: the files Claude read, edited and committed, highlighted live in your project tree",
+      "source": "./"
+    }
+  ]
+}
